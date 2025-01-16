@@ -1,4 +1,4 @@
-# 🚀 Portfólio de Soluções de IA & Automação: Desbrave o Futuro com Elias Andrade 🤖
+# 🚀 Portfólio de Soluções de IA & Automação: Desbrave o Futuro  da Ia e IAC comigo de forma prática, acesse os spaces, descreva o que precisa, veja a mágica acontecer. 🤖
 
 ## 💡 Transforme sua Empresa com Tecnologia de Ponta através da IA e IAC💡
 
