@@ -1,8 +1,11 @@
 # 🚀 Portfólio de Soluções de IA & Automação: Desbrave o Futuro com Elias Andrade 🤖
 
-## 💡 Transforme sua Empresa com Tecnologia de Ponta 💡
+## 💡 Transforme sua Empresa com Tecnologia de Ponta através da IA e IAC💡
 
 Este repositório apresenta um portfólio que redefine os limites da inovação, com soluções de Inteligência Artificial (IA) e automação que impulsionam a eficiência e o crescimento. Meu objetivo é capacitar empresas a liderar a transformação digital, desbravando o futuro da tecnologia através de aplicações práticas e impactantes.
+
+![c7017985-f380-4eb3-b44b-6e118e4f2cf5](https://github.com/user-attachments/assets/f041445f-d158-499d-9cc5-6d4be40dea24)
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
