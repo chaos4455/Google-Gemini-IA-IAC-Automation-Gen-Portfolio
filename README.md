@@ -111,6 +111,8 @@ Meus projetos no Hugging Face demonstram minha capacidade de criar web apps inte
 - **[💻 Gemini2 PowerShell Command Gen](https://huggingface.co/spaces/chaos4455/Gemini-2.0-Powershell-Command-Gen-ENG)**: Crie comandos PowerShell para automação de tarefas no Windows.
 - **[🌐 Gemini2 PowerShell Command Gen V1](https://huggingface.co/spaces/chaos4455/Gemini-2.0-Powershell-Command-Gen-V1)**: Gere comandos PowerShell em português para facilitar seu trabalho.
 
+**Observação:** Os projetos no Hugging Face cujos nomes terminam em "ENG" são apresentados em inglês, refletindo meu portfólio bilíngue. Possuo expertise avançada na língua inglesa, com amplo conhecimento e leitura de vasta literatura, tanto clássica quanto recente, nas áreas de IT, ITSM, IA e outras tecnologias relevantes. Isso me permite interagir com um público global e utilizar as fontes mais atualizadas e especializadas do mercado.
+
 Cada uma dessas aplicações demonstra como a combinação de IA (via Gemini), Streamlit e minha expertise em IaC e DevOps pode criar soluções que agilizam e otimizam processos de configuração e implantação de infraestrutura, permitindo que as empresas se movam mais rapidamente e com maior segurança.
 
 ### 🛠️  Outras Soluções
