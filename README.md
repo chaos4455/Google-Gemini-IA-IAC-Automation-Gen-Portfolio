@@ -1,5 +1,7 @@
 # 🚀 Portfólio de Soluções de IA & Automação: Desbrave o Futuro  da Ia e IAC comigo de forma prática, acesse os spaces, descreva o que precisa, veja a mágica acontecer. 🤖
 
+<img width="1442" alt="ImageGlass_gLhTSusu4P" src="https://github.com/user-attachments/assets/9a631514-3f0f-4dd7-8fc0-1f9e437036f5" />
+
 ## 💡 Transforme sua Empresa com Tecnologia de Ponta através da IA e IAC💡
 
 Este repositório apresenta um portfólio que redefine os limites da inovação, com soluções de Inteligência Artificial (IA) e automação que impulsionam a eficiência e o crescimento. Meu objetivo é capacitar empresas a liderar a transformação digital, desbravando o futuro da tecnologia através de aplicações práticas e impactantes.
